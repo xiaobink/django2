@@ -25,7 +25,7 @@ SECRET_KEY = '@s5)e_9+s^q)#+z671vm(nkz^_tu&a42lo(=7)j6&mhcs!zuar'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['xiaobink.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
